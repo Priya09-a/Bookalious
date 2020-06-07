@@ -1,0 +1,59 @@
+body {
+  padding-top: 50px;
+  background-image: url(../images/bk.jpg);
+  background-size: 100%;
+}
+.em-text {
+  color: #f0105b !important;
+}
+.jumbotron{
+  background: url(../images/bk.jpg) no-repeat fixed;
+  background-size: 100%;
+}
+
+
+#main_pg{
+  text-align: center;
+  width:300px;
+  margin:0 auto;
+  background: rgba(255, 237, 237, 0.966);
+  padding: 5px;
+}
+.modal_content{
+  text-align:left;
+  width: 300px;
+  text-align:left;
+}
+.user-img img {
+	height: 120px;
+	width: 120px;
+}
+.user-img {
+	margin-top: -60px;
+	margin-bottom: 45px;
+}
+
+.form{
+  text-align:center;
+  opacity: .8;
+  width:300px;
+  margin:0 auto;
+}
+.form-control{
+  text-align:left;
+  width:280px;
+  margin:0 auto;
+  padding:5px;
+}
+#log_btn{
+  text-align:center;
+  margin-top:10px;
+  background-color:rgba(145, 13, 24, 0.842); ;
+  padding:5px;
+  color : #ffffff;
+  width: 100%;
+  text-align:center;
+  font-size: 18px;
+  opacity: .8;
+}
+
